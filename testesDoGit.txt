@@ -2,3 +2,6 @@ teste de git...
 
 Não há certezas, apenas oportunidades." (V de Vingança)
 "Diga ’olá’ para meu pequeno amigo!" (Scarface)
+
+# On branch master
+nothing to commit, working directory clean
