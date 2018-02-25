@@ -66,7 +66,91 @@ git add filmes.txt
 
 Não há certezas, apenas oportunidades." (V de Vingança)
 "Diga ’olá’ para meu pequeno amigo!" (Scarface)
+teste de git...
 
+Não há certezas, apenas oportunidades." (V de Vingança)
+"Diga ’olá’ para meu pequeno amigo!" (Scarface)
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
+
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
+
+
+Não há certezas, apenas oportunidades." (V de Vingança)
+"Diga ’olá’ para meu pequeno amigo!" (Scarface)
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
+
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
+
+teste de git...
+
+Não há certezas, apenas oportunidades." (V de Vingança)
+"Diga ’olá’ para meu pequeno amigo!" (Scarface)
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
+
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
+
+
+Não há certezas, apenas oportunidades." (V de Vingança)
+"Diga ’olá’ para meu pequeno amigo!" (Scarface)
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
+
+
+# On branch master
+nothing to commit, working directory clean
+pull
+
+Rastreando e gravando as alterações no repositório
+Para rastrearmos a modi cação, devemos executar o comando git add novamente:
+git add filmes.txt
 # On branch master
 nothing to commit, working directory clean
 pull
